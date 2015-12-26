@@ -28,7 +28,7 @@ For more information on raw data files and other variables contained in the set,
 run_analysis.R performs all the necessary data cleaning and other prep necessary to obtain the required tidy data step for the Course Project
 Steps required to manipulate the data into the final today dat set form are outlined in more detail in the Analysis Summary section of this code book.  Detailed comments explaining each procedure are also included throughout the run_analysis.R code.
 
-# Final Tidy Data Set
+# Variables in Final Tidy Data Set 
 
 The final tidy data set required for the Course project can be found in dt_final.txt on this repo.  
 For each activity and each subject in the final today data set, the mean of each variable was ultimately calculated. 
