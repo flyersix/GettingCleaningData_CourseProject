@@ -15,3 +15,4 @@ run_analysis.R = Code created to accomplish the following requirements for the C
 
 dt_final.txt = This is the final data output resulting from the run_analysis.R code.
 
+Note: As long as the raw data files have been moved into you working directory, run_analysis.R should complete as intended and yield the final tidy data set dt_final.txt

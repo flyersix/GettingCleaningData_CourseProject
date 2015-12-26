@@ -9,7 +9,7 @@
 
 ## BEGIN STEP 1 - MERGE TRAINING + TEST SETS
 
-## **FIX COMMENTS BEFORE SUBMITTING** load packages <- note check how to combine packages into one call to library, need require?
+## load packages 
 
 require(plyr)
 require(dplyr) 
